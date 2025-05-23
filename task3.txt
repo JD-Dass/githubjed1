@@ -1,0 +1,2 @@
+lorem20
+this is task3.txt
